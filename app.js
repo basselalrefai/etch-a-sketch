@@ -1,5 +1,5 @@
 //UI variables
-const divContainer = document.getElementById("container");
+const divContainer = document.getElementById("grid-container");
 
 //Create Divs
 for (let i = 0; i < 16; i++) {
